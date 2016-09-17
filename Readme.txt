@@ -1,3 +1,8 @@
+<<<<<<< .mine
 This is a readme file
 
-Son da Sua
+=======
+This is a readme file
+2nd line
+>>>>>>> .theirs
+Son da Sua3th line
